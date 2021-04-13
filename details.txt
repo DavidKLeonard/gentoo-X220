@@ -1,0 +1,17 @@
+# gentoo
+
+All the files used to configure my gentoo installation on my X220
+
+.xinitrc goes in /home/dkl/
+
+make.conf goes in /etc/portage/
+
+dwm, st, dmenu, etc. all go in /root/.config/
+
+dwm has been configured to use the media controls on the X220
+
+st is the build from Luke Smith
+
+slstatus is the build from Mental Outlaw
+
+I have taken two scripts from Mental Outlaw to install X11. These are dependencies.txt and install_dependencies.sh
